@@ -9,8 +9,8 @@
 	<link rel="apple-touch-icon" sizes="144x144" href="public/images/logo.png">
 	<link rel="shortcut icon" type="image/png" href="public/images/logo.png">
 
-	<title>Zello</title>
-	<meta name="author" content="Zack Thoutt">
+	<title>Prayer App</title>
+	<meta name="author" content="Bruno Pereira">
 	<meta charset="UTF-8">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="public/css/trello.css">
@@ -154,7 +154,7 @@
 		<hr class="pad20">
 
 		<div class="Background_container">
-			<h1 class="Background_title">My Starred</h1>
+			<h1 class="Background_title">Important</h1>
 			<div class="Collection">
 				<div class="Collection_item" v-for="(board_id, board) in boards | starred" v-link="{ path: '/board/' + board_id }">
 					<h1 class="Collection_title">{{ board.name }}</h1>
@@ -173,7 +173,7 @@
 
 				</div>
 			</div>
-			<h1 class="Background_title">My Boards</h1>
+			<h1 class="Background_title">My prayers</h1>
 			<div class="Collection">
 				<div class="Collection_item" v-for="(board_id, board) in boards" v-link="{ path: '/board/' + board_id }">
 					<h1 class="Collection_title">{{ board.name }}</h1>
@@ -211,10 +211,10 @@
 	<div id="trello-app">
 		<nav class="Nav">
 			<div class="Nav_boards Nav_button" v-link="{ path: '/' }">
-				Boards
+				Prayers
 			</div>
 			<img class="Nav_logo" src="public/images/logo-title-inverse.svg">
-			<div class="Nav_user Nav_button">Zack</div>
+			<div class="Nav_user Nav_button">Bruno</div>
 		</nav>
 		<router-view></router-view>
 	</div>

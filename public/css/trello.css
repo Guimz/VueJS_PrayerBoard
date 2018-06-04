@@ -82,7 +82,7 @@ nav.Nav {
   left: 0;
   width: 100vw;
   height: 55px;
-  background-color: #026AA7;
+  background-color: #3ad183;
   display: block; }
   nav.Nav .Nav_boards {
     position: absolute;
@@ -106,12 +106,12 @@ nav.Nav {
     font-weight: 400;
     font-size: 12px;
     color: #FFFFFF;
-    background-color: #298FCA;
+    background-color: #009649;
     padding: 10px 15px;
     border-radius: 3px;
     cursor: pointer; }
     nav.Nav .Nav_button:hover {
-      background-color: #5BA4CF; }
+      background-color: #00592b; }
 
 .Background {
   width: 100vw;
@@ -129,11 +129,11 @@ nav.Nav {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 20px;
-    color: #4d4d4d;
+    color: #009649;
     margin: 10px 0; }
 
 .Background-white {
-  background-color: #FFFFFF; }
+  background-color: #ddffed; }
 
 .Background-blue {
   background-color: #0079BF; }
