@@ -3,7 +3,7 @@
 	exports.trelloSeedData = {
 		'boards' : {
 			'b1': {
-				'name': 'Life',
+				'name': 'Agnieszka',
 				'starred': true,
 				'lists': [
 					{
