@@ -7,43 +7,33 @@
 				'starred': true,
 				'lists': [
 					{
-						"title": "Todo",
+						"title": "Charlie",
 						"tasks": [
 							{
-								"title": "Go Hiking",
-								"description": "Take Skutull on his first hike. Maybe Mt. Sonitas?",
+								"title": "Salvation",
+								"description": "Pray for Charlie to be saved",
 								"placeholder": false
 							},
-							{
-								"title": "Make reservation at The Kitchen",
-								"description": "Craving a salmon salad sandwich...",
-								"placeholder": false
-							},
-							{
-								"title": "Finish Trello app",
-								"description": "Get my trello clone up on github and make a screencast for README and website.",
-								"placeholder": false
-							},
-							{
-								"title": "Build wine rack",
-								"description": "Need to go to Home Depot to get more wood and screws.",
-								"placeholder": false
-							},
-							{
-								"title": "Take dog on a walk",
-								"description": "",
-								"placeholder": false
-							}
 						],
 						"newItem": "",
 						"hasPlaceholderTask": false,
 						"addTask": false,
 					},
 					{
-						"title": "Doing",
+						"title": "Shamar",
 						"tasks": [
 							{
-								"title": "Pay taxes :(",
+								"title": "Spiritual growth",
+								"description": "",
+								"placeholder": false
+							},
+							{
+								"title": "To love Jesus more and more",
+								"description": "",
+								"placeholder": false
+							},
+							{
+								"title": "To place God first above all things",
 								"description": "",
 								"placeholder": false
 							},
@@ -53,15 +43,15 @@
 						"addTask": false,
 					},
 					{
-						"title": "Done",
+						"title": "Agnieszka",
 						"tasks": [
 							{
-								"title": "Watch new GOT episode",
-								"description": "I swear if Tyrion and John Snow die I will stop watching the show.",
+								"title": "To fall deeply in love with God",
+								"description": "",
 								"placeholder": false
 							},
 							{
-								"title": "Buy toothpaste",
+								"title": "To place God first above all things",
 								"description": "",
 								"placeholder": false
 							}
